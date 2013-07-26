@@ -11,9 +11,9 @@
     "museo-700.css"
   ],
   "fonts": [
-    "museo700-regular-webfont.eot",
-    "museo700-regular-webfont.svg",
-    "museo700-regular-webfont.ttf",
-    "museo700-regular-webfont.woff"
+    "fonts/museo700-regular-webfont.eot",
+    "fonts/museo700-regular-webfont.svg",
+    "fonts/museo700-regular-webfont.ttf",
+    "fonts/museo700-regular-webfont.woff"
   ]
 }
