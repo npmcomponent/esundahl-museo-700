@@ -1,0 +1,11 @@
+{
+  "name": "esundahl-museo-700",
+  "description": "Museo 700 Font Component",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "museo-700.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
